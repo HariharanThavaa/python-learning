@@ -6,3 +6,4 @@
 4. classes: class key word to declare
 5. objects: Student()
 6. attributes: instance variables
+7. methods: behaviour
