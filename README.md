@@ -7,3 +7,4 @@
 5. objects: Student()
 6. attributes: instance variables
 7. methods: behaviour
+8. raise
