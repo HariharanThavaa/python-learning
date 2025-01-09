@@ -37,3 +37,6 @@ print(type(dict()))
 <class 'dict'>
 <class 'dict'>
 ```
+
+#### Class Method
+
