@@ -8,3 +8,11 @@
 6. attributes: instance variables
 7. methods: behaviour
 8. raise
+
+
+#### Printing student object 
+1. __str__
+```
+ def __str__(self):
+        return f"{self.name} from {self.house}"
+```
