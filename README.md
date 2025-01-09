@@ -41,3 +41,13 @@ print(type(dict()))
 #### Class Method
 
 @classmethod
+
+@staticmethod
+
+#### inheritance
+
+```
+class Student(Wizard):
+    def __init__(self, name, house):
+        super().__init__(name)
+```
