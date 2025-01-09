@@ -40,3 +40,4 @@ print(type(dict()))
 
 #### Class Method
 
+@classmethod
