@@ -16,3 +16,24 @@
  def __str__(self):
         return f"{self.name} from {self.house}"
 ```
+
+#### Type
+
+```
+print(type(50))
+print(type("Hello World"))
+print(type([]))
+print(type(list()))
+print(type({}))
+print(type(dict()))
+```
+
+```
+@HariharanThavaa ➜ /workspaces/python-learning/oop/ex-1 (main) $ python type.py
+<class 'int'>
+<class 'str'>
+<class 'list'>
+<class 'list'>
+<class 'dict'>
+<class 'dict'>
+```
