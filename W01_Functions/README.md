@@ -28,3 +28,14 @@ pseudocode - TODO List for you / structuring your ideas before writing the code.
 - [X] Multiple Function Arguments
 
 - [ ] Named Parameters
+
+str - String (stir)
+https://docs.python.org
+https://docs.python.org/3/library/functions.html
+https://docs.python.org/3/library/functions.html#print
+
+parameters - keys
+arguments - values
+
+end='\n' - new line
+sep=' ' - separator space
