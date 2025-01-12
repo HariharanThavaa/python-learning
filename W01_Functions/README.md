@@ -128,4 +128,8 @@ Hello, World
 
 - [X] calculator.py
 
-- [ ] Type Coversion
+- [X] Type Coversion
+
+int
+
+- [ ] Floating Point Values
