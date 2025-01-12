@@ -133,3 +133,12 @@ Hello, World
 int
 
 - [ ] Floating Point Values
+
+float  - Number with the decimal points
+
+```
+python calculator.py 
+What's x? 1.2
+What's y? 3.4
+4.6
+```
