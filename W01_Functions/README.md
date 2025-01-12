@@ -155,4 +155,13 @@ What's y? 3.4
 5
 ```
 
-- [ ] Numeric Formatting
+- [X] Numeric Formatting
+
+print(f"{z:,}")
+
+```
+$ python calculator.py 
+What's x? 9999
+What's y? 1
+10,000
+```
