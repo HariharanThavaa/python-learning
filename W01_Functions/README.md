@@ -194,3 +194,5 @@ print(f"{z:.2f}")
 ```
 
 - [ ] Defining Functions
+
+def - to define a function

@@ -1,8 +1,6 @@
-# Ask user for their name + remove whitespace from str and capitalize
-name = input("What's your name? ").strip().title()
+def hello(to="World"):
+    print("Hello,", f"{to}!")
 
-#  split the firstname and lastname
-fname, lname = name.split(" ")
-
-# Say hello to user
-print(f"Hello, {fname} {lname}")
+hello()
+name = input("What's you name? ")
+hello(name)
