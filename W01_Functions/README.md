@@ -16,3 +16,6 @@ bugs - mistake
 
 - [X] VS Code and Integration Development Environment
 - [ ] Return Values and Variables
+
+return values
+variables
