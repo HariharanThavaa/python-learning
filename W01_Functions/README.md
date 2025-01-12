@@ -25,4 +25,6 @@ variables
 comments - notes in our code
 pseudocode - TODO List for you / structuring your ideas before writing the code.
 
-- [ ] Multiple Function Arguments
+- [X] Multiple Function Arguments
+
+- [ ] Named Parameters
