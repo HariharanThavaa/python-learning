@@ -103,4 +103,5 @@ strip off the whitespace from both left and right
 capitalize each word's first letter
 then assign that value to name
 
-- [ ] Style
+- [X] Style
+- [ ] Split
