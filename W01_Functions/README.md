@@ -165,3 +165,20 @@ What's x? 9999
 What's y? 1
 10,000
 ```
+
+- [ ] Division
+
+```
+x = float(input("What's x? "))
+y = float(input("What's y? "))
+
+z = round(x / y, 2)
+
+print(z)
+```
+```
+$ python calculator.py 
+What's x? 2
+What's y? 3
+0.67
+```
