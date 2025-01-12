@@ -27,7 +27,7 @@ pseudocode - TODO List for you / structuring your ideas before writing the code.
 
 - [X] Multiple Function Arguments
 
-- [ ] Named Parameters
+- [X] Named Parameters
 
 str - String (stir)
 https://docs.python.org
@@ -39,3 +39,7 @@ arguments - values
 
 end='\n' - new line
 sep=' ' - separator space
+
+positional parameters
+names parameters
+
