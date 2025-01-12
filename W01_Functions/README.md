@@ -104,4 +104,26 @@ capitalize each word's first letter
 then assign that value to name
 
 - [X] Style
-- [ ] Split
+- [X] Split
+- [X] Integesrs and Operators
+
+int
++ - Add
+- - subtract
+* - multiply
+/ - divide
+% - Modulo
+
+Interactive mode
+```
+$ python
+Python 3.12.1 (main, Dec 12 2024, 22:30:56) [GCC 9.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 1 + 1
+2
+>>> print("Hello, World")
+Hello, World
+>>> 
+```
+
+- [ ] calculator.py
