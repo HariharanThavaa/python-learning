@@ -15,7 +15,14 @@ side effects - visual, audio anything
 bugs - mistake 
 
 - [X] VS Code and Integration Development Environment
-- [ ] Return Values and Variables
+- [X] Return Values and Variables
 
 return values
 variables
+
+- [X] Comments and Psedocode
+
+comments - notes in our code
+pseudocode - TODO List for you / structuring your ideas before writing the code.
+
+- [ ] Multiple Function Arguments
