@@ -64,3 +64,6 @@ couple of fixes.
 format string
 
 - [ ] String Methods
+
+str
+https://docs.python.org/3/library/stdtypes.html#string-methods
