@@ -96,3 +96,9 @@ python hello.py
 What's your name?     hariharan thava   
 Hello, Hariharan thava
 ```
+
+name = name.strip().title()
+get the value of the name
+strip off the whitespace from both left and right
+capitalize each word's first letter
+then assign that value to name
