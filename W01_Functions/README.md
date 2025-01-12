@@ -43,3 +43,18 @@ sep=' ' - separator space
 positional parameters
 names parameters
 
+- [X] Escaping Character
+
+print("hello, "friend"")
+
+```
+$ python hello.py 
+  File "/workspaces/python-learning/W01_Functions/hello.py", line 2
+    print("hello, "friend"")
+          ^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+```
+
+couple of fixes.
+1. print('hello, "friend"')
+2. print("hello, \"friend\"")
