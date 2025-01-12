@@ -132,7 +132,7 @@ Hello, World
 
 int
 
-- [ ] Floating Point Values
+- [X] Floating Point Values
 
 float  - Number with the decimal points
 
@@ -145,3 +145,14 @@ What's y? 3.4
 
 https://docs.python.org/3/library/functions.html#round
 round(number, ndigits=None)¶
+
+[] - in parameter means optional
+
+```
+$ python calculator.py 
+What's x? 1.2
+What's y? 3.4
+5
+```
+
+- [ ] Numeric Formatting
