@@ -166,7 +166,7 @@ What's y? 1
 10,000
 ```
 
-- [ ] Division
+- [X] Division
 
 ```
 x = float(input("What's x? "))
@@ -182,3 +182,15 @@ What's x? 2
 What's y? 3
 0.67
 ```
+
+Another way.
+```
+x = float(input("What's x? "))
+y = float(input("What's y? "))
+
+z = x / y
+
+print(f"{z:.2f}")
+```
+
+- [ ] Defining Functions
