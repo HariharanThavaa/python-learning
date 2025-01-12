@@ -58,3 +58,9 @@ SyntaxError: invalid syntax. Perhaps you forgot a comma?
 couple of fixes.
 1. print('hello, "friend"')
 2. print("hello, \"friend\"")
+
+- [X] f-strings
+
+format string
+
+- [ ] String Methods

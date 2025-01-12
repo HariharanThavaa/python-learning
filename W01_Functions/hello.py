@@ -1,2 +1,5 @@
-# Escape Characters
-print("hello, \"friend\"")
+# Ask user for their name
+name = input("What's your name? ")
+
+# Say hello to user
+print(f"Hello, {name}")
