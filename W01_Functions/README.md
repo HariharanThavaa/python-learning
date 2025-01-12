@@ -63,7 +63,7 @@ couple of fixes.
 
 format string
 
-- [ ] String Methods
+- [X] String Methods
 
 str
 https://docs.python.org/3/library/stdtypes.html#string-methods
@@ -102,3 +102,5 @@ get the value of the name
 strip off the whitespace from both left and right
 capitalize each word's first letter
 then assign that value to name
+
+- [ ] Style
