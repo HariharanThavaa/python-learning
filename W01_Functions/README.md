@@ -67,3 +67,16 @@ format string
 
 str
 https://docs.python.org/3/library/stdtypes.html#string-methods
+
+```python
+# Remove whitespace from str
+name = name.strip()
+
+# capitalize the name
+name = name.capitalize()
+```
+```
+$ python hello.py 
+What's your name?      hariharan       
+Hello, Hariharan
+```
