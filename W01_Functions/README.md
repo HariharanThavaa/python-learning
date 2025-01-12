@@ -88,3 +88,11 @@ $ python hello.py
 What's your name?     hariharan thava
 Hello, Hariharan Thava
 ```
+
+chaining funtions
+
+```
+python hello.py 
+What's your name?     hariharan thava   
+Hello, Hariharan thava
+```
