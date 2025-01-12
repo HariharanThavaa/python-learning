@@ -10,7 +10,9 @@ functions - print
 arguments - "hello, world"
 side effects - visual, audio anything
 
-- [ ] Bugs and Debugging
+- [X] Bugs and Debugging
 
 bugs - mistake 
 
+- [X] VS Code and Integration Development Environment
+- [ ] Return Values and Variables
