@@ -193,6 +193,12 @@ z = x / y
 print(f"{z:.2f}")
 ```
 
-- [ ] Defining Functions
+- [X] Defining Functions
 
 def - to define a function
+
+- [X] Scope
+
+retun - to use outside scope
+
+- [ ] Return values
