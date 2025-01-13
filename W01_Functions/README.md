@@ -201,4 +201,7 @@ def - to define a function
 
 retun - to use outside scope
 
-- [ ] Return values
+- [X] Return values
+
+pow() and **
+
